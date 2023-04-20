@@ -1,9 +1,25 @@
 {
-  "name": "js-simplifiy",
+  "name": "js-simplify",
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
-  "repository": "https://github.com/mahamodulhasanmoon/simplify-js.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahamodulhasanmoon/simplify-js.git"
+  },
   "author": "Mahamodul Hasan Moon <mahamodulhasan.moon@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahamodulhasanmoon/simplify-js/issues"
+  },
+  "homepage": "https://github.com/mahamodulhasanmoon/simplify-js",
+  "scripts": {
+    "test": "s"
+  },
+  "keywords": [
+    "js-simplify",
+    "js",
+    "js.simplify",
+    "simplifyes.js"
+  ]
 }
