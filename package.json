@@ -1,0 +1,9 @@
+{
+  "name": "simplified-js",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "https://github.com/mahamodulhasanmoon/simplify-js.git",
+  "author": "Mahamodul Hasan Moon <mahamodulhasan.moon@gmail.com>",
+  "license": "MIT"
+}
